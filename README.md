@@ -33,7 +33,9 @@ En la era digital, la hibridación de medios se ha convertido en un fenómeno en
 
 Al combinar elementos de diferentes géneros y medios, **Fortnite** ofrece una experiencia de juego rica y variada que puede adaptarse a diferentes estilos de juego y preferencias. Todo esto atrae y retiene a una amplia, a lo que se le suman las colaboraciones con franquicias populares y los eventos en vivo que crean una experiencia cultural compartida, convirtiendo a **Fortnite** en un fenómeno cultural global.
 
-<p style= "text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_lettermark_logo.png" alt= "Logo Fortnite"  style="width:20%; height:20%;">
+<p style= "text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_lettermark_logo.png" alt= "Logo Fortnite"  style="width:20%; height:20%;">
+</p>
 
 ## La hibridación en Minecraft
 ![Minecraft](https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_Minecraft_image1280w.jpg)
@@ -54,7 +56,9 @@ Al combinar elementos de diferentes géneros y medios, **Fortnite** ofrece una e
 
 Al ofrecer a los jugadores herramientas para construir y explorar, **Minecraft** fomenta la expresión creativa y el pensamiento crítico. Su enfoque en la creatividad y la educación además de su uso en entornos educativos demuestra cómo los videojuegos pueden ser una herramienta efectiva para el aprendizaje, combinando la diversión con la educación. La capacidad de **Minecraft** para fomentar la colaboración y la comunidad también lo convierte en una plataforma poderosa para la interacción social y el aprendizaje colaborativo.
 
-<p style= "text-align: center;"><img src="https://i.pinimg.com/222x/82/b2/1f/82b21fe6d9166c673eed585a5fc38ef5.jpg" alt= "Logo Fortnite"  style="width:22%; height:22%;">
+<p style= "text-align: center;">
+  <img src="https://i.pinimg.com/222x/82/b2/1f/82b21fe6d9166c673eed585a5fc38ef5.jpg" alt= "Logo Fortnite"  style="width:22%; height:22%;">
+</p>
 
 ## Conclusión
 
