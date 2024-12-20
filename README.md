@@ -79,4 +79,4 @@ Estas son las fuentes de información y de referencia que he usado para este ens
 
 ----
 
-Todas las imágenes de este *GitHub* han sido utilizadas para complementar la información de una manera visualmente más llamativa y para un uso académico, los enlaces a estas se pueden encontrar en el código de este .md, y los derechos de dichas imágenes pertenecen a sus respectivos creadores.#  Fortnite y Minecraft: La Hibridación de Medios en el Sector de los Videojuegos
+Todas las imágenes de este *GitHub* han sido utilizadas para complementar la información de una manera visualmente más llamativa y para un uso académico, los enlaces a estas se pueden encontrar en el código de este .md, y los derechos de dichas imágenes pertenecen a sus respectivos creadores.
